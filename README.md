@@ -2,5 +2,5 @@
 
 ### Aquí podras encontrar todos los codigos que que he ido desarrollando y los proyectos en los que estoy tranajabdo
 
-! [] (https://media.licdn.com/dms/image/D4D16AQGmkHLk0GJKVA/profile-displaybackgroundimage-shrink_350_1400/0/1705321395777?e=1710979200&v=beta&t=Tw_n9NK3d_zBhYuaZY77kSFjo31fvq-A4AoG8squ5sg)
+! [] (DALL·E 2024-01-15 13.22.28 - A serene sky image that relates to a programmer's profile. The sky is a calm blue, dotted with soft, fluffy clouds, symbolizing tranquility and clarit.png)
 
