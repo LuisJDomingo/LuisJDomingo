@@ -21,10 +21,8 @@ Hola, soy Luis, un apasionado y dedicado programador especializado en Python. Te
 
 ## Habilidades Técnicas
 
-- Lenguajes de Programación: Python
+- Lenguajes de Programación: Python, C, Java
 - Frameworks: Django
-- Herramientas de Análisis de Datos: Tableau, Power BI
-- Otras habilidades: (Aquí puedes añadir otras habilidades que poseas, como desarrollo front-end, bases de datos, etc.)
 
 ## Contacto
 
