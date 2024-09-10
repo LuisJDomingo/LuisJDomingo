@@ -1,5 +1,4 @@
-![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/grid-3227320_1280%20(1).jpg?raw=true)
-
+![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/imagen_modificada_coloreada.jpg)
 # Bienbenidos a mi perfil de Github
 ````c
 int main(){
