@@ -1,4 +1,4 @@
-![imagen_de_cabecera]([https://github.com/LuisJDomingo/LuisJDomingo/blob/main/grid-3227320_1280.jpg])
+![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/grid-3227320_1280.jpg)
 
 # Bienbenidos a mi perfil de Github
 ````c
