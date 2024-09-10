@@ -1,6 +1,6 @@
 ![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/grid-3227320_1280.jpg)
 
-# Hola a todoos! Bienbenidos a mi perfil de Github
+# Bienbenidos a mi perfil de Github
 ````c
 int main(){
   printf("hello world!\n");
