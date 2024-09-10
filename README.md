@@ -7,9 +7,9 @@ int main(){
   return 0;
 }
 ````
-### Aquí podras encontrar todos los codigos que que he ido desarrollando y los proyectos en los que estoy tranajabdo
+### Aquí podras encontrar todos los codigos que que voy desarrollando y los proyectos en los que estoy tranajabdo
 
-## Acerca de Mí
+## Acerca de mi.
 
 Hola, soy Luis, un apasionado y dedicado programador especializado en Python. Tengo una sólida experiencia en el desarrollo web utilizando el framework Django y soy aprendiz constante en análisis de datos con herramientas como Tableau y Power BI.
 
