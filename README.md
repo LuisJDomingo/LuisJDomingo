@@ -1,4 +1,4 @@
-![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/imagen_modificada_coloreada.jpg)
+![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/imagen_modificada_coloreada.jpg)(https://github.com/LuisJDomingo/LuisJDomingo/blob/main/imagen_modificada_coloreada.jpg)
 # Bienbenidos a mi perfil de Github
 
 ### Aquí podras encontrar todos los codigos que que voy desarrollando y los proyectos en los que estoy tranajabdo
