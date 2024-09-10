@@ -1,11 +1,6 @@
 ![imagen_de_cabecera](https://github.com/LuisJDomingo/LuisJDomingo/blob/main/imagen_modificada_coloreada.jpg)
 # Bienbenidos a mi perfil de Github
-````c
-int main(){
-  printf("hello world!\n");
-  return 0;
-}
-````
+
 ### Aquí podras encontrar todos los codigos que que voy desarrollando y los proyectos en los que estoy tranajabdo
 
 ## Acerca de mi.
