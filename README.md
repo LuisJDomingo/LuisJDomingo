@@ -5,7 +5,8 @@
 
 ## Acerca de mi.
 
-Hola, soy Luis, un apasionado y dedicado programador especializado en Python. Tengo una sólida experiencia en el desarrollo web utilizando el framework Django y soy aprendiz constante en análisis de datos con herramientas como Tableau y Power BI.
+Mi formación es en esencia autodidacta aunque cuento con diversas certificaciones de Google y Cisco entre las que se cuentan las siguientes; Analista de datos, Analista de ciberseguridad y Programador Python.
+En 1997 inicie los estudios de Ingeniería Informática de Gestión en ICAI-ICADE (Universidad Pontificia de Comillas) y recientemente estudie Programación en Python en Tokio School.
 
 ### ¿Qué Hago?
 
