@@ -10,7 +10,14 @@ En 1997 inicie los estudios de Ingeniería Informática de Gestión en ICAI-ICAD
 
 ### ¿Qué Hago?
 
-- **Desarrollo Web con Django**: Me especializo en crear aplicaciones web robustas y eficientes utilizando Django. Mi enfoque está en escribir código limpio y mantenible, asegurando al mismo tiempo una excelente funcionalidad y rendimiento.
+- **Desarrollo de Software**
+    Python Developer Certificado por Google y Cisco me especializo en desarrollar aplicaciones eficientes, escalables y seguras.
+  Mi experiencia abarca:
+    Desarrollo backend: Creación de APIs robustas, optimización de bases de datos y manejo de grandes volúmenes de datos.
+    Automatización: Implementación de scripts para optimizar procesos repetitivos y mejorar la productividad.
+    Testing y calidad: Uso de frameworks como unittest para garantizar un código confiable y libre de errores.
+    Integración con tecnologías avanzadas: Trabajo con herramientas de IA, machine learning y soluciones en la nube.
+  
 - **Análisis de Datos**: Poseo habilidades avanzadas en herramientas de análisis y visualización de datos como Tableau y Power BI. Me gusta transformar datos complejos en información clara y útil para la toma de decisiones.
 - **Colaboración y Aprendizaje Continuo**: Siempre estoy abierto a colaborar en proyectos interesantes y a aprender nuevas tecnologías y técnicas que puedan mejorar mi trabajo.
 
